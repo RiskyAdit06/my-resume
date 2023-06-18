@@ -2,11 +2,12 @@
 <html lang="en">
 
 <head>
-  <title>Hagen - vcard template</title>
+  <title>Radit-My Resume</title>
   <meta charset="UTF-8">
-  <meta name="description" content="Hagen - vcard template">
+  <meta name="description" content="Radit-My Resume">
   <meta name="keywords" content="personal, portfolio">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
   <!-- Favicon -->
   <link href="favicon.html" rel="shortcut icon" type="image/x-icon" />
 
@@ -30,7 +31,6 @@
   <div id="loader" class="preloader">
     <div class="loading">
       <div class="profile-image">
-        <img src="<?=base_url() ?>assets/images/profile-loader.jpg" alt="">
         <svg style="position: absolute;" width="100px" height="100px" viewBox="0 0 100 100" preserveAspectRatio="none">
           <circle class="js-circle circle" cx="50" cy="50" r="48" stroke="white" stroke-width="2" fill="none" />
           <circle class="js-circle circletwo" cx="50" cy="50" r="48" stroke="white" stroke-width="2" fill="none" />
